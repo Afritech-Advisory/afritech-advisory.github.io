@@ -26,3 +26,4 @@ Disallow: /
 User-agent: *
 Allow: /
 Sitemap: https://afritech-advisory.github.io/sitemap.xml
+Sitemap: https://afritech-advisory.github.io/Afritech-Advisory-afritech-tournament-desk/sitemap.xml
